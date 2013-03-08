@@ -6,7 +6,7 @@ package entities;
 
 /**
  *
- * @author mariusbrederlow
+ * @author peters
  */
 import java.io.Serializable;
 import java.util.Collection;

@@ -6,7 +6,7 @@ package interfaces;
 
 /**
  *
- * @author mariusbrederlow
+ * @author peters
  */
 public interface IStauService {
     public void generiereStau();
